@@ -1,0 +1,34 @@
+Respondents: 75
+11th grade: 49, 12th grade: 26
+Matematică-Informatică: 37
+Filologie: 25
+Științe: 13
+University studies in Romania: 66 (88.0%)
+
+Criterion: Likert M (SD), rated 4 or 5, mean rank, top-3, threshold M, threshold counts 0-5
+Courses: 4.55 (0.62), 70 (93.3%), 3.28, 35 (46.7%), 4.10, 6/1/2/10/32/24
+Professors: 4.63 (0.69), 68 (90.7%), 3.36, 52 (69.3%), 3.96, 3/1/1/19/30/21
+Accessibility: 4.36 (0.75), 65 (86.7%), 3.45, 51 (68.0%), 3.72, 4/1/2/21/39/8
+Opportunities: 4.77 (0.61), 70 (93.3%), 3.23, 56 (74.7%), 4.29, 5/2/0/7/28/33
+Administration: 3.63 (1.02), 38 (50.7%), 3.99, 0 (0.0%), 3.15, 4/0/10/42/17/2
+Campus Life: 4.21 (0.96), 59 (78.7%), 3.60, 30 (40.0%), 3.71, 3/4/4/18/29/17
+Administration rated 3 (Moderat): 28 (37.3%)
+
+Scenario: expected, C/P/A (% of respondents)
+1: P, 26.7/82.7/13.3
+2: C, 85.3/18.7/8.0
+3: A, 13.3/12.0/88.0
+4: P, 4.0/93.3/5.3
+5: C/P, 53.3/49.3/10.7
+6: P, 17.3/82.7/8.0
+7: A, 8.0/2.7/96.0
+8: C, 76.0/12.0/28.0
+9: P, 16.0/84.0/13.3
+10: C, 85.3/14.7/9.3
+11: C/P/A, 53.3/33.3/49.3
+12: P, 4.0/88.0/13.3
+Mean for unambiguous C scenarios: 82.2%
+Mean for unambiguous P scenarios: 86.1%
+Mean for unambiguous A scenarios: 92.0%
+
+Separate scores preferred: 58 (77.3%)

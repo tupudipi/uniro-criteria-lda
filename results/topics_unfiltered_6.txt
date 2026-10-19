@@ -1,0 +1,6 @@
+0: 0.018*"domeniu" + 0.012*"master" + 0.010*"admitere" + 0.009*"limba" + 0.008*"materie" + 0.008*"matematica" + 0.007*"bun" + 0.007*"engleza" + 0.006*"acolo" + 0.006*"liceu"
+1: 0.032*"camin" + 0.018*"loc" + 0.016*"student" + 0.013*"ban" + 0.012*"bursa" + 0.012*"camera" + 0.010*"stat" + 0.010*"pana" + 0.009*"bucuresti" + 0.009*"luna"
+2: 0.020*"profesor" + 0.014*"curs" + 0.012*"examen" + 0.010*"ora" + 0.009*"licenta" + 0.007*"nota" + 0.007*"materie" + 0.007*"nevoie" + 0.007*"student" + 0.006*"prezent"
+3: 0.025*"salariu" + 0.021*"munca" + 0.021*"leu" + 0.018*"ban" + 0.018*"job" + 0.015*"ora" + 0.014*"domeniu" + 0.010*"program" + 0.009*"firma" + 0.009*"post"
+4: 0.011*"viata" + 0.010*"ban" + 0.009*"lucru" + 0.008*"medicina" + 0.007*"greu" + 0.007*"bun" + 0.007*"pana" + 0.007*"munca" + 0.007*"domeniu" + 0.006*"lume"
+5: 0.039*"for" + 0.022*"the" + 0.020*"that" + 0.019*"they" + 0.016*"not" + 0.014*"hav" + 0.013*"but" + 0.013*"you" + 0.013*"can" + 0.012*"your"

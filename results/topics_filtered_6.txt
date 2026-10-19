@@ -1,0 +1,6 @@
+0: 0.089*"laptop" + 0.030*"tableta" + 0.022*"notit" + 0.022*"nevoie" + 0.013*"pret" + 0.012*"leu" + 0.012*"ecran" + 0.011*"offic" + 0.010*"baterie" + 0.010*"macbook"
+1: 0.018*"buget" + 0.017*"examen" + 0.016*"taxa" + 0.015*"profesor" + 0.010*"licenta" + 0.009*"curs" + 0.009*"medie" + 0.008*"master" + 0.007*"unibuc" + 0.007*"sesiune"
+2: 0.022*"mat" + 0.021*"materie" + 0.021*"matematica" + 0.019*"admitere" + 0.014*"informatica" + 0.013*"liceu" + 0.013*"profil" + 0.012*"pol" + 0.012*"info" + 0.011*"inginerie"
+3: 0.009*"munca" + 0.008*"viata" + 0.008*"ban" + 0.007*"greu" + 0.006*"lucru" + 0.006*"job" + 0.005*"faculta" + 0.005*"salariu" + 0.005*"medicina" + 0.005*"nevoie"
+4: 0.030*"camin" + 0.017*"sta" + 0.015*"camera" + 0.013*"coleg" + 0.010*"stat" + 0.010*"student" + 0.010*"ban" + 0.010*"chirie" + 0.010*"persoana" + 0.009*"luna"
+5: 0.036*"utcb" + 0.034*"limba" + 0.033*"constructie" + 0.029*"program" + 0.028*"erasmus" + 0.020*"civila" + 0.019*"franceza" + 0.019*"constructiile" + 0.018*"europeana" + 0.017*"strain"
